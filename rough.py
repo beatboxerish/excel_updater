@@ -42,4 +42,14 @@ for workbook in os.listdir('data/'):
     except:
         print(workbook)
         continue
-    temp_df.to_csv('data/'+workbook +'.csv')
+    temp_df.to_csv('data/'+workbook + '.csv')
+
+# cleaning the files
+file = pd.read_csv('data/4460_aws.csv')
+file.SIZE = file.SIZE.str.replace('2', 'X')
+file['SKU ID'] = file['VENDOR STYLE CODE'] + '_' + file['SIZE']
+file.to_csv('data/4460_aws.csv', index=False)
+
+file = pd.read_csv('data/1566.csv')
+file['SKU ID'] = file['SKU ID'].str.replace('2XL', 'XXL')
+file.to_csv('data/1566.csv', index=False)
