@@ -2,6 +2,17 @@ from Vendor import Vendor
 
 
 def update_syntax(file, id_col, sp_col, stock_col, input_id, input_sp, input_stock):
+    '''
+    Uses the Vendor class to create an object and then update the various values given the the input lists.
+    :param file: file name (eg: flipkart.csv)
+    :param id_col: column name for SKU ID column
+    :param sp_col: column name for Selling Price column
+    :param stock_col: column name for Inventory column
+    :param input_id: list of SKU IDs that need to be updated
+    :param input_sp: list of selling prices
+    :param input_stock: dictionary that maps SKU ID to a list stock available for different sizes
+    :return: nothing
+    '''
     print('Updating for:', file)
     vendor = Vendor(file, id_col, sp_col, stock_col)
     vendor.change_values(n, input_id, input_sp, input_stock)
