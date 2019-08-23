@@ -30,10 +30,15 @@ for i in range(n):
     print("Please enter ID without size:")
     input_id.append(input())
     print("Please enter new Selling Price. Enter 'same' if you don't want to change it:")
-    input_sp.append(float(input()))
+    inp = input()
+    if inp != 'same':
+        inp = float(inp)
+    input_sp.append(inp)
     for size in ['S', 'M', 'L', 'XL', 'XXL']:
         print("Please enter current stock for size:", size, ". Enter 'same' if you don't want to change it:")
-        temp_stock.append(int(input()))
+        inp = input()
+        if inp != 'same':
+            temp_stock.append(int(inp))
     input_stock[input_id[-1]] = temp_stock
 
 # flipkart
