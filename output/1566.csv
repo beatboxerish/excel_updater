@@ -1,151 +1,151 @@
 Unnamed: 0,Parent Style Code,Style Code,SKU ID,Unique Code,Product Title,L1 Product Category,L2 Product Category,L3 Product Category,Color,Size,MRP,Selling Price,Shipping Charge,Inventory
-0,ISH_101K,ISH_101K,ISH_101K_S,GR4557887ISH_101KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,500.0,70,5
-1,ISH_101K,ISH_101K,ISH_101K_M,GR4557887ISH_101KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,500.0,70,5
-2,ISH_101K,ISH_101K,ISH_101K_L,GR4557887ISH_101KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,500.0,70,11
-3,ISH_101K,ISH_101K,ISH_101K_XL,GR4557887ISH_101KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,500.0,70,9
-4,ISH_101K,ISH_101K,ISH_101K_XXL,GR4557887ISH_101KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,500.0,70,8
-5,ISH_102K,ISH_102K,ISH_102K_S,GR4557887ISH_102KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,525.0,70,0
-6,ISH_102K,ISH_102K,ISH_102K_M,GR4557887ISH_102KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,525.0,70,0
-7,ISH_102K,ISH_102K,ISH_102K_L,GR4557887ISH_102KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,525.0,70,0
-8,ISH_102K,ISH_102K,ISH_102K_XL,GR4557887ISH_102KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,525.0,70,0
-9,ISH_102K,ISH_102K,ISH_102K_XXL,GR4557887ISH_102KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,525.0,70,0
-10,ISH_103K,ISH_103K,ISH_103K_S,GR4557887ISH_103KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,345.0,70,0
-11,ISH_103K,ISH_103K,ISH_103K_M,GR4557887ISH_103KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,345.0,70,0
-12,ISH_103K,ISH_103K,ISH_103K_L,GR4557887ISH_103KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,345.0,70,0
-13,ISH_103K,ISH_103K,ISH_103K_XL,GR4557887ISH_103KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,345.0,70,0
-14,ISH_103K,ISH_103K,ISH_103K_XXL,GR4557887ISH_103KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,345.0,70,0
-15,ISH_104K,ISH_104K,ISH_104K_S,GR4557887ISH_104KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,320.0,70,3
-16,ISH_104K,ISH_104K,ISH_104K_M,GR4557887ISH_104KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,320.0,70,8
-17,ISH_104K,ISH_104K,ISH_104K_L,GR4557887ISH_104KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,320.0,70,9
-18,ISH_104K,ISH_104K,ISH_104K_XL,GR4557887ISH_104KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,320.0,70,4
-19,ISH_104K,ISH_104K,ISH_104K_XXL,GR4557887ISH_104KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,320.0,70,3
-20,ISH_105K,ISH_105K,ISH_105K_S,GR4557887ISH_105KBlueS,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,S,,330.0,70,4
-21,ISH_105K,ISH_105K,ISH_105K_M,GR4557887ISH_105KBlueM,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,M,,330.0,70,0
-22,ISH_105K,ISH_105K,ISH_105K_L,GR4557887ISH_105KBlueL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,L,,330.0,70,5
-23,ISH_105K,ISH_105K,ISH_105K_XL,GR4557887ISH_105KBlueXL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,XL,,330.0,70,5
-24,ISH_105K,ISH_105K,ISH_105K_XXL,GR4557887ISH_105KBlue2XL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,2XL,,330.0,70,4
-25,ISH_106K,ISH_106K,ISH_106K_S,GR4557887ISH_106KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,360.0,70,5
-26,ISH_106K,ISH_106K,ISH_106K_M,GR4557887ISH_106KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,360.0,70,5
-27,ISH_106K,ISH_106K,ISH_106K_L,GR4557887ISH_106KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,360.0,70,9
-28,ISH_106K,ISH_106K,ISH_106K_XL,GR4557887ISH_106KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,360.0,70,9
-29,ISH_106K,ISH_106K,ISH_106K_XXL,GR4557887ISH_106KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,360.0,70,10
-30,ISH_107K,ISH_107K,ISH_107K_S,GR4557887ISH_107KGreenS,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,S,,435.0,70,7
-31,ISH_107K,ISH_107K,ISH_107K_M,GR4557887ISH_107KGreenM,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,M,,435.0,70,7
-32,ISH_107K,ISH_107K,ISH_107K_L,GR4557887ISH_107KGreenL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,L,,435.0,70,11
-33,ISH_107K,ISH_107K,ISH_107K_XL,GR4557887ISH_107KGreenXL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,XL,,435.0,70,12
-34,ISH_107K,ISH_107K,ISH_107K_XXL,GR4557887ISH_107KGreen2XL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,2XL,,435.0,70,12
-35,ISH_108K,ISH_108K,ISH_108K_S,GR4557887ISH_108KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,500.0,70,4
-36,ISH_108K,ISH_108K,ISH_108K_M,GR4557887ISH_108KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,500.0,70,5
-37,ISH_108K,ISH_108K,ISH_108K_L,GR4557887ISH_108KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,500.0,70,10
-38,ISH_108K,ISH_108K,ISH_108K_XL,GR4557887ISH_108KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,500.0,70,7
-39,ISH_108K,ISH_108K,ISH_108K_XXL,GR4557887ISH_108KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,500.0,70,9
-40,ISH_109K,ISH_109K,ISH_109K_S,GR4557887ISH_109KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,300.0,70,0
-41,ISH_109K,ISH_109K,ISH_109K_M,GR4557887ISH_109KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,300.0,70,0
-42,ISH_109K,ISH_109K,ISH_109K_L,GR4557887ISH_109KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,300.0,70,0
-43,ISH_109K,ISH_109K,ISH_109K_XL,GR4557887ISH_109KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,300.0,70,0
-44,ISH_109K,ISH_109K,ISH_109K_XXL,GR4557887ISH_109KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,300.0,70,0
-45,ISH_110K,ISH_110K,ISH_110K_S,GR4557887ISH_110KRedS,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,S,,500.0,70,5
-46,ISH_110K,ISH_110K,ISH_110K_M,GR4557887ISH_110KRedM,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,M,,500.0,70,4
-47,ISH_110K,ISH_110K,ISH_110K_L,GR4557887ISH_110KRedL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,L,,500.0,70,9
-48,ISH_110K,ISH_110K,ISH_110K_XL,GR4557887ISH_110KRedXL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,XL,,500.0,70,9
-49,ISH_110K,ISH_110K,ISH_110K_XXL,GR4557887ISH_110KRed2XL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,2XL,,500.0,70,10
-50,ISH_111K,ISH_111K,ISH_111K_S,GR4557887ISH_111KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,500.0,70,0
-51,ISH_111K,ISH_111K,ISH_111K_M,GR4557887ISH_111KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,500.0,70,0
-52,ISH_111K,ISH_111K,ISH_111K_L,GR4557887ISH_111KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,500.0,70,7
-53,ISH_111K,ISH_111K,ISH_111K_XL,GR4557887ISH_111KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,500.0,70,8
-54,ISH_111K,ISH_111K,ISH_111K_XXL,GR4557887ISH_111KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,500.0,70,1
-55,ISH_112K,ISH_112K,ISH_112K_S,GR4557887ISH_112KNavy BlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,490.0,70,7
-56,ISH_112K,ISH_112K,ISH_112K_M,GR4557887ISH_112KNavy BlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,490.0,70,8
-57,ISH_112K,ISH_112K,ISH_112K_L,GR4557887ISH_112KNavy BlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,490.0,70,10
-58,ISH_112K,ISH_112K,ISH_112K_XL,GR4557887ISH_112KNavy BlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,490.0,70,13
-59,ISH_112K,ISH_112K,ISH_112K_XXL,GR4557887ISH_112KNavy Blue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,490.0,70,10
-60,ISH_113K,ISH_113K,ISH_113K_S,GR4557887ISH_113KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,625.0,70,7
-61,ISH_113K,ISH_113K,ISH_113K_M,GR4557887ISH_113KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,625.0,70,5
-62,ISH_113K,ISH_113K,ISH_113K_L,GR4557887ISH_113KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,625.0,70,10
-63,ISH_113K,ISH_113K,ISH_113K_XL,GR4557887ISH_113KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,625.0,70,12
-64,ISH_113K,ISH_113K,ISH_113K_XXL,GR4557887ISH_113KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,625.0,70,10
-65,ISH_114K,ISH_114K,ISH_114K_S,GR4557887ISH_114KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,340.0,70,3
-66,ISH_114K,ISH_114K,ISH_114K_M,GR4557887ISH_114KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,340.0,70,4
-67,ISH_114K,ISH_114K,ISH_114K_L,GR4557887ISH_114KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,340.0,70,10
-68,ISH_114K,ISH_114K,ISH_114K_XL,GR4557887ISH_114KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,340.0,70,10
-69,ISH_114K,ISH_114K,ISH_114K_XXL,GR4557887ISH_114KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,340.0,70,10
-70,ISH_115K,ISH_115K,ISH_115K_S,GR4557887ISH_115KMulticolouredS,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,360.0,70,4
-71,ISH_115K,ISH_115K,ISH_115K_M,GR4557887ISH_115KMulticolouredM,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,360.0,70,1
-72,ISH_115K,ISH_115K,ISH_115K_L,GR4557887ISH_115KMulticolouredL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,360.0,70,6
-73,ISH_115K,ISH_115K,ISH_115K_XL,GR4557887ISH_115KMulticolouredXL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,360.0,70,2
-74,ISH_115K,ISH_115K,ISH_115K_XXL,GR4557887ISH_115KMulticoloured2XL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,360.0,70,0
-75,ISH_116K,ISH_116K,ISH_116K_S,GR4557887ISH_116KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,300.0,70,0
-76,ISH_116K,ISH_116K,ISH_116K_M,GR4557887ISH_116KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,300.0,70,0
-77,ISH_116K,ISH_116K,ISH_116K_L,GR4557887ISH_116KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,300.0,70,6
-78,ISH_116K,ISH_116K,ISH_116K_XL,GR4557887ISH_116KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,300.0,70,5
-79,ISH_116K,ISH_116K,ISH_116K_XXL,GR4557887ISH_116KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,300.0,70,8
-80,,ISH_117K,ISH_117K_S,GR4557887ISH_117KBlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,500.0,70,1
-81,,ISH_117K,ISH_117K_M,GR4557887ISH_117KBlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,500.0,70,5
-82,,ISH_117K,ISH_117K_L,GR4557887ISH_117KBlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,500.0,70,10
-83,,ISH_117K,ISH_117K_XL,GR4557887ISH_117KBlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,500.0,70,9
-84,,ISH_117K,ISH_117K_XXL,GR4557887ISH_117KBlue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,500.0,70,10
-85,ISH_118K,ISH_118K,ISH_118K_S,GR4557887ISH_118KRedS,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,S,,344.0,70,5
-86,ISH_118K,ISH_118K,ISH_118K_M,GR4557887ISH_118KRedM,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,M,,344.0,70,5
-87,ISH_118K,ISH_118K,ISH_118K_L,GR4557887ISH_118KRedL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,L,,344.0,70,10
-88,ISH_118K,ISH_118K,ISH_118K_XL,GR4557887ISH_118KRedXL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,XL,,344.0,70,10
-89,ISH_118K,ISH_118K,ISH_118K_XXL,GR4557887ISH_118KRed2XL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,2XL,,344.0,70,9
-90,ISH_119K,ISH_119K,ISH_119K_S,GR4557887ISH_119KTurquoiseS,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,S,,350.0,70,3
-91,ISH_119K,ISH_119K,ISH_119K_M,GR4557887ISH_119KTurquoiseM,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,M,,350.0,70,2
-92,ISH_119K,ISH_119K,ISH_119K_L,GR4557887ISH_119KTurquoiseL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,L,,350.0,70,2
-93,ISH_119K,ISH_119K,ISH_119K_XL,GR4557887ISH_119KTurquoiseXL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,XL,,350.0,70,8
-94,ISH_119K,ISH_119K,ISH_119K_XXL,GR4557887ISH_119KTurquoise2XL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,2XL,,350.0,70,7
-95,ISH_120K,ISH_120K,ISH_120K_S,GR4557887ISH_120KMulticolouredS,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,365.0,70,7
-96,ISH_120K,ISH_120K,ISH_120K_M,GR4557887ISH_120KMulticolouredM,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,365.0,70,2
-97,ISH_120K,ISH_120K,ISH_120K_L,GR4557887ISH_120KMulticolouredL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,365.0,70,9
-98,ISH_120K,ISH_120K,ISH_120K_XL,GR4557887ISH_120KMulticolouredXL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,365.0,70,7
-99,ISH_120K,ISH_120K,ISH_120K_XXL,GR4557887ISH_120KMulticoloured2XL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,365.0,70,2
-100,ISH_121K,ISH_121K,ISH_121K_S,GR4557887ISH_121KMulticolouredS,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,500.0,70,0
-101,ISH_121K,ISH_121K,ISH_121K_M,GR4557887ISH_121KMulticolouredM,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,500.0,70,0
-102,ISH_121K,ISH_121K,ISH_121K_L,GR4557887ISH_121KMulticolouredL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,500.0,70,0
-103,ISH_121K,ISH_121K,ISH_121K_XL,GR4557887ISH_121KMulticolouredXL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,500.0,70,0
-104,ISH_121K,ISH_121K,ISH_121K_XXL,GR4557887ISH_121KMulticoloured2XL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,500.0,70,0
-105,ISH_122K,ISH_122K,ISH_122K_S,GR4557887ISH_122KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,430.0,70,4
-106,ISH_122K,ISH_122K,ISH_122K_M,GR4557887ISH_122KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,430.0,70,5
-107,ISH_122K,ISH_122K,ISH_122K_L,GR4557887ISH_122KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,430.0,70,10
-108,ISH_122K,ISH_122K,ISH_122K_XL,GR4557887ISH_122KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,430.0,70,7
-109,ISH_122K,ISH_122K,ISH_122K_XXL,GR4557887ISH_122KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,430.0,70,9
-110,ISH_123K,ISH_123K,ISH_123K_S,GR4557887ISH_123KNavy BlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,430.0,70,5
-111,ISH_123K,ISH_123K,ISH_123K_M,GR4557887ISH_123KNavy BlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,430.0,70,2
-112,ISH_123K,ISH_123K,ISH_123K_L,GR4557887ISH_123KNavy BlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,430.0,70,6
-113,ISH_123K,ISH_123K,ISH_123K_XL,GR4557887ISH_123KNavy BlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,430.0,70,5
-114,ISH_123K,ISH_123K,ISH_123K_XXL,GR4557887ISH_123KNavy Blue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,430.0,70,5
-115,ISH_124K,ISH_124K,ISH_124K_S,GR4557887ISH_124KBrownS,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,S,,575.0,70,7
-116,ISH_124K,ISH_124K,ISH_124K_M,GR4557887ISH_124KBrownM,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,M,,575.0,70,8
-117,ISH_124K,ISH_124K,ISH_124K_L,GR4557887ISH_124KBrownL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,L,,575.0,70,11
-118,ISH_124K,ISH_124K,ISH_124K_XL,GR4557887ISH_124KBrownXL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,XL,,575.0,70,10
-119,ISH_124K,ISH_124K,ISH_124K_XXL,GR4557887ISH_124KBrown2XL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,2XL,,575.0,70,10
-120,ISH_125K,ISH_125K,ISH_125K_S,GR4557887ISH_125KGreenS,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,S,,575.0,70,1
-121,ISH_125K,ISH_125K,ISH_125K_M,GR4557887ISH_125KGreenM,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,M,,575.0,70,2
-122,ISH_125K,ISH_125K,ISH_125K_L,GR4557887ISH_125KGreenL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,L,,575.0,70,2
-123,ISH_125K,ISH_125K,ISH_125K_XL,GR4557887ISH_125KGreenXL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,XL,,575.0,70,2
-124,ISH_125K,ISH_125K,ISH_125K_XXL,GR4557887ISH_125KGreen2XL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,2XL,,575.0,70,1
-125,ISH_126K,ISH_126K,ISH_126K_S,GR4557887ISH_126KMaroonS,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,S,1325.0,279.0,70,20
-126,ISH_126K,ISH_126K,ISH_126K_M,GR4557887ISH_126KMaroonM,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,M,1325.0,279.0,70,20
-127,ISH_126K,ISH_126K,ISH_126K_L,GR4557887ISH_126KMaroonL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,L,1325.0,279.0,70,20
-128,ISH_126K,ISH_126K,ISH_126K_XL,GR4557887ISH_126KMaroonXL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,XL,1325.0,279.0,70,20
-129,ISH_126K,ISH_126K,ISH_126K_XXL,GR4557887ISH_126KMaroon2XL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,2XL,1325.0,279.0,70,20
-130,ISH_127K,ISH_127K,ISH_127K_S,GR4557887ISH_127KBlackS,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,S,1225.0,259.0,70,20
-131,ISH_127K,ISH_127K,ISH_127K_M,GR4557887ISH_127KBlackM,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,M,1225.0,259.0,70,20
-132,ISH_127K,ISH_127K,ISH_127K_L,GR4557887ISH_127KBlackL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,L,1225.0,259.0,70,20
-133,ISH_127K,ISH_127K,ISH_127K_XL,GR4557887ISH_127KBlackXL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,XL,1225.0,259.0,70,20
-134,ISH_127K,ISH_127K,ISH_127K_XXL,GR4557887ISH_127KBlack2XL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,1225.0,259.0,70,20
-135,ISH_128K,ISH_128K,ISH_128K_S,GR4557887ISH_128KNavy BlueS,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,1025.0,1.0,70,1
-136,ISH_128K,ISH_128K,ISH_128K_M,GR4557887ISH_128KNavy BlueM,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,1025.0,1.0,70,1
-137,ISH_128K,ISH_128K,ISH_128K_L,GR4557887ISH_128KNavy BlueL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,1025.0,1.0,70,1
-138,ISH_128K,ISH_128K,ISH_128K_XL,GR4557887ISH_128KNavy BlueXL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,1025.0,1.0,70,1
-139,ISH_128K,ISH_128K,ISH_128K_XXL,GR4557887ISH_128KNavy Blue2XL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,1025.0,1.0,70,1
-140,ISH_129K,ISH_129K,ISH_129K_S,GR4557887ISH_129KBlackS,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,S,1125.0,235.0,70,20
-141,ISH_129K,ISH_129K,ISH_129K_M,GR4557887ISH_129KBlackM,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,M,1125.0,235.0,70,20
-142,ISH_129K,ISH_129K,ISH_129K_L,GR4557887ISH_129KBlackL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,L,1125.0,235.0,70,20
-143,ISH_129K,ISH_129K,ISH_129K_XL,GR4557887ISH_129KBlackXL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,XL,1125.0,235.0,70,20
-144,ISH_129K,ISH_129K,ISH_129K_XXL,GR4557887ISH_129KBlack2XL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,1125.0,235.0,70,20
-145,ISH_130K,ISH_130K,ISH_130K_S,GR4557887ISH_130KMulticolouredS,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,1125.0,235.0,70,20
-146,ISH_130K,ISH_130K,ISH_130K_M,GR4557887ISH_130KMulticolouredM,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,1125.0,235.0,70,20
-147,ISH_130K,ISH_130K,ISH_130K_L,GR4557887ISH_130KMulticolouredL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,1125.0,235.0,70,20
-148,ISH_130K,ISH_130K,ISH_130K_XL,GR4557887ISH_130KMulticolouredXL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,1125.0,235.0,70,20
-149,ISH_130K,ISH_130K,ISH_130K_XXL,GR4557887ISH_130KMulticoloured2XL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,1125.0,235.0,70,20
+0,ISH_101K,ISH_101K,ISH_101K_S,GR4557887ISH_101KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,500,70,5
+1,ISH_101K,ISH_101K,ISH_101K_M,GR4557887ISH_101KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,500,70,5
+2,ISH_101K,ISH_101K,ISH_101K_L,GR4557887ISH_101KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,500,70,11
+3,ISH_101K,ISH_101K,ISH_101K_XL,GR4557887ISH_101KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,500,70,9
+4,ISH_101K,ISH_101K,ISH_101K_XXL,GR4557887ISH_101KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,500,70,8
+5,ISH_102K,ISH_102K,ISH_102K_S,GR4557887ISH_102KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,525,70,0
+6,ISH_102K,ISH_102K,ISH_102K_M,GR4557887ISH_102KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,525,70,0
+7,ISH_102K,ISH_102K,ISH_102K_L,GR4557887ISH_102KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,525,70,0
+8,ISH_102K,ISH_102K,ISH_102K_XL,GR4557887ISH_102KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,525,70,0
+9,ISH_102K,ISH_102K,ISH_102K_XXL,GR4557887ISH_102KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,525,70,0
+10,ISH_103K,ISH_103K,ISH_103K_S,GR4557887ISH_103KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,345,70,0
+11,ISH_103K,ISH_103K,ISH_103K_M,GR4557887ISH_103KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,345,70,0
+12,ISH_103K,ISH_103K,ISH_103K_L,GR4557887ISH_103KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,345,70,0
+13,ISH_103K,ISH_103K,ISH_103K_XL,GR4557887ISH_103KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,345,70,0
+14,ISH_103K,ISH_103K,ISH_103K_XXL,GR4557887ISH_103KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,345,70,0
+15,ISH_104K,ISH_104K,ISH_104K_S,GR4557887ISH_104KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,320,70,3
+16,ISH_104K,ISH_104K,ISH_104K_M,GR4557887ISH_104KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,320,70,8
+17,ISH_104K,ISH_104K,ISH_104K_L,GR4557887ISH_104KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,320,70,9
+18,ISH_104K,ISH_104K,ISH_104K_XL,GR4557887ISH_104KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,320,70,4
+19,ISH_104K,ISH_104K,ISH_104K_XXL,GR4557887ISH_104KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,320,70,3
+20,ISH_105K,ISH_105K,ISH_105K_S,GR4557887ISH_105KBlueS,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,S,,330,70,4
+21,ISH_105K,ISH_105K,ISH_105K_M,GR4557887ISH_105KBlueM,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,M,,330,70,0
+22,ISH_105K,ISH_105K,ISH_105K_L,GR4557887ISH_105KBlueL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,L,,330,70,5
+23,ISH_105K,ISH_105K,ISH_105K_XL,GR4557887ISH_105KBlueXL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,XL,,330,70,5
+24,ISH_105K,ISH_105K,ISH_105K_XXL,GR4557887ISH_105KBlue2XL,Women's Printed Cotton Blue Kurti,Women,Ethnic Wear,Kurtas,Blue,2XL,,330,70,4
+25,ISH_106K,ISH_106K,ISH_106K_S,GR4557887ISH_106KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,360,70,5
+26,ISH_106K,ISH_106K,ISH_106K_M,GR4557887ISH_106KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,360,70,5
+27,ISH_106K,ISH_106K,ISH_106K_L,GR4557887ISH_106KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,360,70,9
+28,ISH_106K,ISH_106K,ISH_106K_XL,GR4557887ISH_106KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,360,70,9
+29,ISH_106K,ISH_106K,ISH_106K_XXL,GR4557887ISH_106KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,360,70,10
+30,ISH_107K,ISH_107K,ISH_107K_S,GR4557887ISH_107KGreenS,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,S,,435,70,7
+31,ISH_107K,ISH_107K,ISH_107K_M,GR4557887ISH_107KGreenM,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,M,,435,70,7
+32,ISH_107K,ISH_107K,ISH_107K_L,GR4557887ISH_107KGreenL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,L,,435,70,11
+33,ISH_107K,ISH_107K,ISH_107K_XL,GR4557887ISH_107KGreenXL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,XL,,435,70,12
+34,ISH_107K,ISH_107K,ISH_107K_XXL,GR4557887ISH_107KGreen2XL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,2XL,,435,70,12
+35,ISH_108K,ISH_108K,ISH_108K_S,GR4557887ISH_108KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,500,70,4
+36,ISH_108K,ISH_108K,ISH_108K_M,GR4557887ISH_108KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,500,70,5
+37,ISH_108K,ISH_108K,ISH_108K_L,GR4557887ISH_108KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,500,70,10
+38,ISH_108K,ISH_108K,ISH_108K_XL,GR4557887ISH_108KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,500,70,7
+39,ISH_108K,ISH_108K,ISH_108K_XXL,GR4557887ISH_108KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,500,70,9
+40,ISH_109K,ISH_109K,ISH_109K_S,GR4557887ISH_109KPurpleS,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,S,,300,70,0
+41,ISH_109K,ISH_109K,ISH_109K_M,GR4557887ISH_109KPurpleM,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,M,,300,70,0
+42,ISH_109K,ISH_109K,ISH_109K_L,GR4557887ISH_109KPurpleL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,L,,300,70,0
+43,ISH_109K,ISH_109K,ISH_109K_XL,GR4557887ISH_109KPurpleXL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,XL,,300,70,0
+44,ISH_109K,ISH_109K,ISH_109K_XXL,GR4557887ISH_109KPurple2XL,Women's Printed Cotton Purple Kurti,Women,Ethnic Wear,Kurtas,Purple,2XL,,300,70,0
+45,ISH_110K,ISH_110K,ISH_110K_S,GR4557887ISH_110KRedS,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,S,,500,70,5
+46,ISH_110K,ISH_110K,ISH_110K_M,GR4557887ISH_110KRedM,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,M,,500,70,4
+47,ISH_110K,ISH_110K,ISH_110K_L,GR4557887ISH_110KRedL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,L,,500,70,9
+48,ISH_110K,ISH_110K,ISH_110K_XL,GR4557887ISH_110KRedXL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,XL,,500,70,9
+49,ISH_110K,ISH_110K,ISH_110K_XXL,GR4557887ISH_110KRed2XL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,2XL,,500,70,10
+50,ISH_111K,ISH_111K,ISH_111K_S,GR4557887ISH_111KYellowS,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,S,,500,70,0
+51,ISH_111K,ISH_111K,ISH_111K_M,GR4557887ISH_111KYellowM,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,M,,500,70,0
+52,ISH_111K,ISH_111K,ISH_111K_L,GR4557887ISH_111KYellowL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,L,,500,70,7
+53,ISH_111K,ISH_111K,ISH_111K_XL,GR4557887ISH_111KYellowXL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,XL,,500,70,8
+54,ISH_111K,ISH_111K,ISH_111K_XXL,GR4557887ISH_111KYellow2XL,Women's Printed Cotton Yellow Kurti,Women,Ethnic Wear,Kurtas,Yellow,2XL,,500,70,1
+55,ISH_112K,ISH_112K,ISH_112K_S,GR4557887ISH_112KNavy BlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,490,70,7
+56,ISH_112K,ISH_112K,ISH_112K_M,GR4557887ISH_112KNavy BlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,490,70,8
+57,ISH_112K,ISH_112K,ISH_112K_L,GR4557887ISH_112KNavy BlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,490,70,10
+58,ISH_112K,ISH_112K,ISH_112K_XL,GR4557887ISH_112KNavy BlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,490,70,13
+59,ISH_112K,ISH_112K,ISH_112K_XXL,GR4557887ISH_112KNavy Blue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,490,70,10
+60,ISH_113K,ISH_113K,ISH_113K_S,GR4557887ISH_113KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,625,70,7
+61,ISH_113K,ISH_113K,ISH_113K_M,GR4557887ISH_113KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,625,70,5
+62,ISH_113K,ISH_113K,ISH_113K_L,GR4557887ISH_113KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,625,70,10
+63,ISH_113K,ISH_113K,ISH_113K_XL,GR4557887ISH_113KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,625,70,12
+64,ISH_113K,ISH_113K,ISH_113K_XXL,GR4557887ISH_113KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,625,70,10
+65,ISH_114K,ISH_114K,ISH_114K_S,GR4557887ISH_114KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,340,70,3
+66,ISH_114K,ISH_114K,ISH_114K_M,GR4557887ISH_114KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,340,70,4
+67,ISH_114K,ISH_114K,ISH_114K_L,GR4557887ISH_114KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,340,70,10
+68,ISH_114K,ISH_114K,ISH_114K_XL,GR4557887ISH_114KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,340,70,10
+69,ISH_114K,ISH_114K,ISH_114K_XXL,GR4557887ISH_114KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,340,70,10
+70,ISH_115K,ISH_115K,ISH_115K_S,GR4557887ISH_115KMulticolouredS,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,360,70,4
+71,ISH_115K,ISH_115K,ISH_115K_M,GR4557887ISH_115KMulticolouredM,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,360,70,1
+72,ISH_115K,ISH_115K,ISH_115K_L,GR4557887ISH_115KMulticolouredL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,360,70,6
+73,ISH_115K,ISH_115K,ISH_115K_XL,GR4557887ISH_115KMulticolouredXL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,360,70,2
+74,ISH_115K,ISH_115K,ISH_115K_XXL,GR4557887ISH_115KMulticoloured2XL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,360,70,0
+75,ISH_116K,ISH_116K,ISH_116K_S,GR4557887ISH_116KBlackS,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,S,,300,70,0
+76,ISH_116K,ISH_116K,ISH_116K_M,GR4557887ISH_116KBlackM,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,M,,300,70,0
+77,ISH_116K,ISH_116K,ISH_116K_L,GR4557887ISH_116KBlackL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,L,,300,70,6
+78,ISH_116K,ISH_116K,ISH_116K_XL,GR4557887ISH_116KBlackXL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,XL,,300,70,5
+79,ISH_116K,ISH_116K,ISH_116K_XXL,GR4557887ISH_116KBlack2XL,Women's Printed Cotton Black Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,,300,70,8
+80,,ISH_117K,ISH_117K_S,GR4557887ISH_117KBlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,500,70,1
+81,,ISH_117K,ISH_117K_M,GR4557887ISH_117KBlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,500,70,5
+82,,ISH_117K,ISH_117K_L,GR4557887ISH_117KBlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,500,70,10
+83,,ISH_117K,ISH_117K_XL,GR4557887ISH_117KBlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,500,70,9
+84,,ISH_117K,ISH_117K_XXL,GR4557887ISH_117KBlue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,500,70,10
+85,ISH_118K,ISH_118K,ISH_118K_S,GR4557887ISH_118KRedS,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,S,,344,70,5
+86,ISH_118K,ISH_118K,ISH_118K_M,GR4557887ISH_118KRedM,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,M,,344,70,5
+87,ISH_118K,ISH_118K,ISH_118K_L,GR4557887ISH_118KRedL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,L,,344,70,10
+88,ISH_118K,ISH_118K,ISH_118K_XL,GR4557887ISH_118KRedXL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,XL,,344,70,10
+89,ISH_118K,ISH_118K,ISH_118K_XXL,GR4557887ISH_118KRed2XL,Women's Printed Cotton Red Kurti,Women,Ethnic Wear,Kurtas,Red,2XL,,344,70,9
+90,ISH_119K,ISH_119K,ISH_119K_S,GR4557887ISH_119KTurquoiseS,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,S,,350,70,3
+91,ISH_119K,ISH_119K,ISH_119K_M,GR4557887ISH_119KTurquoiseM,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,M,,350,70,2
+92,ISH_119K,ISH_119K,ISH_119K_L,GR4557887ISH_119KTurquoiseL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,L,,350,70,2
+93,ISH_119K,ISH_119K,ISH_119K_XL,GR4557887ISH_119KTurquoiseXL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,XL,,350,70,8
+94,ISH_119K,ISH_119K,ISH_119K_XXL,GR4557887ISH_119KTurquoise2XL,Women's Printed Cotton Turquoise Kurti,Women,Ethnic Wear,Kurtas,Turquoise,2XL,,350,70,7
+95,ISH_120K,ISH_120K,ISH_120K_S,GR4557887ISH_120KMulticolouredS,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,365,70,7
+96,ISH_120K,ISH_120K,ISH_120K_M,GR4557887ISH_120KMulticolouredM,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,365,70,2
+97,ISH_120K,ISH_120K,ISH_120K_L,GR4557887ISH_120KMulticolouredL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,365,70,9
+98,ISH_120K,ISH_120K,ISH_120K_XL,GR4557887ISH_120KMulticolouredXL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,365,70,7
+99,ISH_120K,ISH_120K,ISH_120K_XXL,GR4557887ISH_120KMulticoloured2XL,Women's Printed Cotton Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,365,70,2
+100,ISH_121K,ISH_121K,ISH_121K_S,GR4557887ISH_121KMulticolouredS,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,,500,70,0
+101,ISH_121K,ISH_121K,ISH_121K_M,GR4557887ISH_121KMulticolouredM,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,,500,70,0
+102,ISH_121K,ISH_121K,ISH_121K_L,GR4557887ISH_121KMulticolouredL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,,500,70,0
+103,ISH_121K,ISH_121K,ISH_121K_XL,GR4557887ISH_121KMulticolouredXL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,,500,70,0
+104,ISH_121K,ISH_121K,ISH_121K_XXL,GR4557887ISH_121KMulticoloured2XL,Women's Printed Rayon Multicoloured Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,,500,70,0
+105,ISH_122K,ISH_122K,ISH_122K_S,GR4557887ISH_122KPinkS,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,S,,430,70,4
+106,ISH_122K,ISH_122K,ISH_122K_M,GR4557887ISH_122KPinkM,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,M,,430,70,5
+107,ISH_122K,ISH_122K,ISH_122K_L,GR4557887ISH_122KPinkL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,L,,430,70,10
+108,ISH_122K,ISH_122K,ISH_122K_XL,GR4557887ISH_122KPinkXL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,XL,,430,70,7
+109,ISH_122K,ISH_122K,ISH_122K_XXL,GR4557887ISH_122KPink2XL,Women's Printed Cotton Pink Kurti,Women,Ethnic Wear,Kurtas,Pink,2XL,,430,70,9
+110,ISH_123K,ISH_123K,ISH_123K_S,GR4557887ISH_123KNavy BlueS,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,,430,70,5
+111,ISH_123K,ISH_123K,ISH_123K_M,GR4557887ISH_123KNavy BlueM,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,,430,70,2
+112,ISH_123K,ISH_123K,ISH_123K_L,GR4557887ISH_123KNavy BlueL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,,430,70,6
+113,ISH_123K,ISH_123K,ISH_123K_XL,GR4557887ISH_123KNavy BlueXL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,,430,70,5
+114,ISH_123K,ISH_123K,ISH_123K_XXL,GR4557887ISH_123KNavy Blue2XL,Women's Printed Cotton Navy Blue Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,,430,70,5
+115,ISH_124K,ISH_124K,ISH_124K_S,GR4557887ISH_124KBrownS,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,S,,575,70,7
+116,ISH_124K,ISH_124K,ISH_124K_M,GR4557887ISH_124KBrownM,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,M,,575,70,8
+117,ISH_124K,ISH_124K,ISH_124K_L,GR4557887ISH_124KBrownL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,L,,575,70,11
+118,ISH_124K,ISH_124K,ISH_124K_XL,GR4557887ISH_124KBrownXL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,XL,,575,70,10
+119,ISH_124K,ISH_124K,ISH_124K_XXL,GR4557887ISH_124KBrown2XL,Women's Printed Cotton Brown Kurti,Women,Ethnic Wear,Kurtas,Brown,2XL,,575,70,10
+120,ISH_125K,ISH_125K,ISH_125K_S,GR4557887ISH_125KGreenS,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,S,,575,70,1
+121,ISH_125K,ISH_125K,ISH_125K_M,GR4557887ISH_125KGreenM,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,M,,575,70,2
+122,ISH_125K,ISH_125K,ISH_125K_L,GR4557887ISH_125KGreenL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,L,,575,70,2
+123,ISH_125K,ISH_125K,ISH_125K_XL,GR4557887ISH_125KGreenXL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,XL,,575,70,2
+124,ISH_125K,ISH_125K,ISH_125K_XXL,GR4557887ISH_125KGreen2XL,Women's Printed Cotton Green Kurti,Women,Ethnic Wear,Kurtas,Green,2XL,,575,70,1
+125,ISH_126K,ISH_126K,ISH_126K_S,GR4557887ISH_126KMaroonS,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,S,1325.0,279,70,20
+126,ISH_126K,ISH_126K,ISH_126K_M,GR4557887ISH_126KMaroonM,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,M,1325.0,279,70,20
+127,ISH_126K,ISH_126K,ISH_126K_L,GR4557887ISH_126KMaroonL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,L,1325.0,279,70,20
+128,ISH_126K,ISH_126K,ISH_126K_XL,GR4557887ISH_126KMaroonXL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,XL,1325.0,279,70,20
+129,ISH_126K,ISH_126K,ISH_126K_XXL,GR4557887ISH_126KMaroon2XL,Alluring Maroon Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Maroon,2XL,1325.0,279,70,20
+130,ISH_127K,ISH_127K,ISH_127K_S,GR4557887ISH_127KBlackS,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,S,1225.0,259,70,20
+131,ISH_127K,ISH_127K,ISH_127K_M,GR4557887ISH_127KBlackM,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,M,1225.0,259,70,20
+132,ISH_127K,ISH_127K,ISH_127K_L,GR4557887ISH_127KBlackL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,L,1225.0,259,70,20
+133,ISH_127K,ISH_127K,ISH_127K_XL,GR4557887ISH_127KBlackXL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,XL,1225.0,259,70,20
+134,ISH_127K,ISH_127K,ISH_127K_XXL,GR4557887ISH_127KBlack2XL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,1225.0,259,70,20
+135,ISH_128K,ISH_128K,ISH_128K_S,GR4557887ISH_128KNavy BlueS,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,S,1025.0,219,70,100
+136,ISH_128K,ISH_128K,ISH_128K_M,GR4557887ISH_128KNavy BlueM,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,M,1025.0,219,70,10101
+137,ISH_128K,ISH_128K,ISH_128K_L,GR4557887ISH_128KNavy BlueL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,L,1025.0,219,70,20
+138,ISH_128K,ISH_128K,ISH_128K_XL,GR4557887ISH_128KNavy BlueXL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,XL,1025.0,219,70,20
+139,ISH_128K,ISH_128K,ISH_128K_XXL,GR4557887ISH_128KNavy Blue2XL,Alluring Navy Blue Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Navy Blue,2XL,1025.0,219,70,20
+140,ISH_129K,ISH_129K,ISH_129K_S,GR4557887ISH_129KBlackS,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,S,1125.0,235,70,20
+141,ISH_129K,ISH_129K,ISH_129K_M,GR4557887ISH_129KBlackM,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,M,1125.0,235,70,20
+142,ISH_129K,ISH_129K,ISH_129K_L,GR4557887ISH_129KBlackL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,L,1125.0,235,70,20
+143,ISH_129K,ISH_129K,ISH_129K_XL,GR4557887ISH_129KBlackXL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,XL,1125.0,235,70,20
+144,ISH_129K,ISH_129K,ISH_129K_XXL,GR4557887ISH_129KBlack2XL,Alluring Black Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Black,2XL,1125.0,235,70,20
+145,ISH_130K,ISH_130K,ISH_130K_S,GR4557887ISH_130KMulticolouredS,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,S,1125.0,235,70,20
+146,ISH_130K,ISH_130K,ISH_130K_M,GR4557887ISH_130KMulticolouredM,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,M,1125.0,235,70,20
+147,ISH_130K,ISH_130K,ISH_130K_L,GR4557887ISH_130KMulticolouredL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,L,1125.0,235,70,20
+148,ISH_130K,ISH_130K,ISH_130K_XL,GR4557887ISH_130KMulticolouredXL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,XL,1125.0,235,70,20
+149,ISH_130K,ISH_130K,ISH_130K_XXL,GR4557887ISH_130KMulticoloured2XL,Alluring Multicoloured Printed American Crepe Straight Women's Kurti,Women,Ethnic Wear,Kurtas,Multicoloured,2XL,1125.0,235,70,20
